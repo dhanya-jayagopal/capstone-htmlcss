@@ -1,0 +1,25 @@
+body {
+    font-family: 'Assistant', sans-serif;
+}
+
+h1 {
+    font-family: 'Rouge Script', cursive;
+    color: navy;
+}
+
+h3 {
+    color: navy;
+}
+
+.profile-img {
+    border-radius: 50%;
+    height: 200px;
+}
+
+.row {
+   gap: 2rem;
+}
+
+.col {
+    flex: 1;
+}
